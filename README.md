@@ -4,3 +4,5 @@
 - 指定选中/未选中颜色
 - 自定义图片
 - 自定义边距
+
+参考：https://www.jianshu.com/p/aae83cfaeeb4
