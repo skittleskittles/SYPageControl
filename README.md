@@ -1,8 +1,9 @@
 # SYPageControl
-自定义实现简易 UIPageControl，可实现：
-- 居中/靠左/靠右
-- 指定选中/未选中颜色
-- 自定义图片
-- 自定义边距
+Custom implementation of a simple `UIPageControl`, supporting the following features:
 
-参考：https://www.jianshu.com/p/aae83cfaeeb4
+- Center, left-aligned, or right-aligned positioning
+- Customizable selected/unselected colors
+- Custom images
+- Adjustable padding
+
+Reference: https://www.jianshu.com/p/aae83cfaeeb4
